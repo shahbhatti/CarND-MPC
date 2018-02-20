@@ -50,7 +50,8 @@ Self-Driving Car Engineer Nanodegree Program
 3. Compile: `cmake .. && make`
 4. Run it: `./mpc`.
 
-## You may view the mpc-run here: https://www.youtube.com/watch?v=XNkcuQwWaPs 
+## You may view the mpc-run here:
+https://www.youtube.com/watch?v=XNkcuQwWaPs 
 
 ## Tips
 
