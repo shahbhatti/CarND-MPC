@@ -1,0 +1,3 @@
+/home/shah/CarND-Term2-CLionProjects/CarND-MPC-Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/shah/CarND-Term2-CLionProjects/CarND-MPC-Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shah/CarND-Term2-CLionProjects/CarND-MPC-Project/cmake-build-debug/CMakeFiles/mpc.dir
